@@ -33,7 +33,7 @@ for akun in akun_list:
     sleep(5)
     
     # Memfollow akun tujuan
-    browser.get(f'https://www.instagram.com/hellyoshaqiqieeee/')
+    browser.get(f'https://www.instagram.com/hellyoshaqiqieeeee/')
     follow_button = browser.find_element(By.CSS_SELECTOR, "button:contains('Follow')")
     follow_button.click()
     sleep(5)
