@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from time import sleep
 import proxy_service
 
-# Akun yang akan difolloww
+# Akun yang akann difollow
 akun_tujuan = "https://www.instagram.com/hellyoshaqiqieeee/"
 
 # Membuka browser
